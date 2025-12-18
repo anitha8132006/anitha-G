@@ -37,7 +37,7 @@
 ### 🌱 Currently Learning
 - Data Structures & Algorithms  
 - Full Stack Development  
-- c++ (Basics)
+- c++(Basics)
 
 ---
 
