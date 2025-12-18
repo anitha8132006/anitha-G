@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%" />
+<img src="C:\Users\DELL\Downloads\1672336.jpg" width="100%" />
 
 <h1 align="center">Hello World 👋</h1>
 <h3 align="center">Welcome to my GitHub Profile</h3>
@@ -15,10 +15,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Student of Computer Science / IT  
+- 🎓 Student of Computer Science 
 - 🐍 Python Learner  
 - 🌐 Interested in Full Stack Development  
-- 📚 Currently learning DSA & Web Technologies  
+- 📚 Currently learning DSA & Web Technologies with AI
 - 🎯 Goal: Get placed in a reputed IT company like **TCS**
 
 ---
@@ -47,7 +47,3 @@
 - 🌐 GitHub: https://github.com/your-username  
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=purple&style=flat" />
-</p>
